@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE releve SYSTEM "file:/C:/Users/Dell/OneDrive/Bureau/BDIICC/XML,Web%20Service/project/releve.dtd">
+<?xml-stylesheet type="text/xsl" href="releveCredit.xsl"?>
+<releve RIB="011112222333344445555666">
+    <dateReleve>2021-12-01</dateReleve>
+    <solde>15000</solde>
+    <operations dateDebut="2021-10-01" dateFin="2021-10-31">
+        <operation date="2021-10-03" montant="14000" description="Vers Espece" type="CREDIT" />
+        <operation date="2021-10-10" montant="11000" description="cheques guichet" type="DEBIT" />
+        <operation date="2021-10-29" montant="15000" description="Virement" type="DEBIT" />
+    </operations>
+</releve>

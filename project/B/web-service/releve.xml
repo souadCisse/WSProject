@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<releve rib="1432424573258">
+    <dateReleve>2023-03-09T00:37:02.300+01:00</dateReleve>
+    <solde>50000.0</solde>
+    <Operations dateDebut="2023-03-09T00:37:02.300+01:00" dateFin="2023-03-09T00:37:02.300+01:00">
+        <Operation type="CREDIT" date="2023-03-09T00:37:02.300+01:00" montant="2000.0" description="description1"/>
+        <Operation type="DEBIT" date="2023-03-09T00:37:02.300+01:00" montant="20560.0" description="description2"/>
+        <Operation type="CREDIT" date="2023-03-09T00:37:02.300+01:00" montant="2000.0" description="description3"/>
+    </Operations>
+    <Operations dateDebut="2023-03-09T00:37:02.300+01:00" dateFin="2023-03-09T00:37:02.300+01:00">
+        <Operation type="CREDIT" date="2023-03-09T00:37:02.300+01:00" montant="2000.0" description="description1"/>
+        <Operation type="DEBIT" date="2023-03-09T00:37:02.300+01:00" montant="20560.0" description="description2"/>
+        <Operation type="CREDIT" date="2023-03-09T00:37:02.300+01:00" montant="2000.0" description="description3"/>
+    </Operations>
+    <Operations dateDebut="2023-03-09T00:37:02.300+01:00" dateFin="2023-03-09T00:37:02.300+01:00">
+        <Operation type="CREDIT" date="2023-03-09T00:37:02.300+01:00" montant="2000.0" description="description1"/>
+        <Operation type="DEBIT" date="2023-03-09T00:37:02.300+01:00" montant="20560.0" description="description2"/>
+        <Operation type="CREDIT" date="2023-03-09T00:37:02.300+01:00" montant="2000.0" description="description3"/>
+    </Operations>
+</releve>
